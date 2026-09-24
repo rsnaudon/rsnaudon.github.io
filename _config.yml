@@ -24,9 +24,9 @@ repository               : "rsnaudon/rsnaudon.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Rodrigo Yañez Naudon"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD candidate in microeconomic theory, on the job market in 2026–27."
   location         : "Madison, WI"
   employer         : "UW-Madison"
   uri              : # URL
