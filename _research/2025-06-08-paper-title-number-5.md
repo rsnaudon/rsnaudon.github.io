@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 5, with math $$E=mc^2$$"
 collection: research
-category: conferences
+category: progress
 permalink: /research/2025-06-08-paper-title-number-5
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2024-02-17

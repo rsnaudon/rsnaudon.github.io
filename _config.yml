@@ -91,6 +91,15 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+# Sections of the Research page, in display order
+research_category:
+  working:
+    title: 'Working Papers'
+  progress:
+    title: 'Works in Progress'
+  published:
+    title: 'Publications'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
