@@ -1,9 +1,9 @@
 ---
-title: "Revenue Maximization with Lotteries: On the Pricing Policies for Loot Boxes"
+title: "Why Sell Loot Boxes?"
 coauthors: "T. Fung Ngai"
 collection: research
 category: progress
-permalink: /research/revenue-maximization-with-lotteries
+permalink: /research/why-sell-loot-boxes
 title_link: false
 date: 2024-02-17
 excerpt: >-
