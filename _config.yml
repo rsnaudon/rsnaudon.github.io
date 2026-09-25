@@ -100,6 +100,13 @@ research_category:
   published:
     title: 'Publications'
 
+# Sections of the Teaching page (by each entry's role), in display order
+teaching_role:
+  instructor:
+    title: 'Instructor'
+  ta:
+    title: 'Teaching Assistant'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)

@@ -7,6 +7,22 @@ author_profile: true
 
 {% include base_path %}
 
+{% for role in site.teaching_role %}
+  {% assign title_shown = false %}
+  {% for post in site.teaching reversed %}
+    {% if post.role != role[0] %}
+      {% continue %}
+    {% endif %}
+    {% unless title_shown %}
+      <h2>{{ role[1].title }}</h2><hr />
+      {% assign title_shown = true %}
+    {% endunless %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}
+
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  {% unless site.teaching_role[post.role] %}
+    {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}
