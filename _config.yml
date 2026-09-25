@@ -27,8 +27,8 @@ author:
   name             : "Rodrigo Yañez Naudon"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate, UW–Madison<br>On the 2026–27 Job Market"
-  location         : "Madison, WI"
-  employer         : "UW-Madison"
+  location         :
+  employer         : "UW–Madison"
   uri              : # URL
   email            : "yaeznaudon@wisc.edu"
 
