@@ -24,7 +24,7 @@ author_profile: true
         {% assign title_shown = true %}
       {% endunless %}
       {% if category[0] == 'published' %}
-        <p><a href="{{ post.link }}">&ldquo;{{ post.title }}&rdquo;</a> {{ post.citation }}</p>
+        <p><a href="{{ post.link }}" target="_blank" rel="noopener">&ldquo;{{ post.title }}&rdquo;</a> {{ post.citation }}</p>
       {% else %}
         {% include archive-single.html %}
       {% endif %}
