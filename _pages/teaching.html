@@ -7,24 +7,28 @@ author_profile: true
 
 {% include base_path %}
 
-<p><strong>Award:</strong> <a href="https://econ.wisc.edu/jpgi/graduate-fellowships/" target="_blank" rel="noopener">Juli Plant Grainger Institute (JPGI) Teaching Assistant Scholarship</a>, University of Wisconsin–Madison, Department of Economics, 2022–23</p>
+<style>
+  .teaching__item { margin-bottom: 1.4em; }
+  .teaching__title { font-size: 1.05em; font-weight: 600; margin: 0 0 0.2em 0; }
+  .teaching__item .archive__item-meta { margin: 0 0 0.2em 0; }
+  .teaching__terms { margin: 0; font-size: 0.9em; }
+</style>
 
-{% for role in site.teaching_role %}
-  {% assign title_shown = false %}
-  {% for post in site.teaching reversed %}
-    {% if post.role != role[0] %}
-      {% continue %}
-    {% endif %}
-    {% unless title_shown %}
-      <h2>{{ role[1].title }}</h2><hr />
-      {% assign title_shown = true %}
-    {% endunless %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endfor %}
+<p><strong>Award:</strong> <a href="https://econ.wisc.edu/jpgi/graduate-fellowships/">Juli Plant Grainger Institute (JPGI) Teaching Assistant Scholarship</a>, University of Wisconsin–Madison, Department of Economics, 2022–23</p>
 
-{% for post in site.teaching reversed %}
-  {% unless site.teaching_role[post.role] %}
-    {% include archive-single.html %}
-  {% endunless %}
+{% assign instructor = site.teaching | where: "role", "instructor" | sort: "date" | reverse %}
+{% assign ta = site.teaching | where: "role", "ta" | sort: "date" | reverse %}
+
+{% if instructor.size > 0 %}
+<h2>Instructor</h2>
+{% for post in instructor %}
+  {% include teaching-single.html %}
 {% endfor %}
+{% endif %}
+
+{% if ta.size > 0 %}
+<h2>Teaching Assistant</h2>
+{% for post in ta %}
+  {% include teaching-single.html %}
+{% endfor %}
+{% endif %}

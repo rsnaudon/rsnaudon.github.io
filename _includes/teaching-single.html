@@ -1,0 +1,7 @@
+<div class="list__item">
+  <article class="archive__item teaching__item">
+    <p class="teaching__title">{{ post.title }}</p>
+    <p class="archive__item-meta">{{ post.type }}, <i>{{ post.venue }}</i></p>
+    {% if post.excerpt %}<p class="teaching__terms">{{ post.excerpt | strip_html | strip }}</p>{% endif %}
+  </article>
+</div>
