@@ -5,7 +5,7 @@ type: "Undergraduate"
 role: instructor
 venue: "Universidad Adolfo Ibáñez, Facultad de Ingeniería y Ciencias"
 date: 2018-07-01
-location: "Santiago and Viña del Mar, Chile"
+location: "Santiago, Chile"
 excerpt: "First and second semesters, 2018"
 ---
 
