@@ -17,6 +17,6 @@ If you're interested in my work or would like to get in touch, feel free to [rea
 
 ### References
 
-- Letter A \[[Email](mailto:)\]
-- Letter B \[[Email](mailto:)\]
-- Letter C \[[Email](mailto:)\]
+- Lones Smith (Advisor) \[[Email](mailto:lones@ssc.wisc.edu)\]
+- Benjamin Bernard \[[Email](mailto:bbernard3@wisc.edu)\]
+- Daniel Quint \[[Email](mailto:dquint@ssc.wisc.edu)\]
