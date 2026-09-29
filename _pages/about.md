@@ -21,6 +21,6 @@ If you're interested in my work or would like to get in touch, feel free to [rea
 *Department of Economics, University of Wisconsin–Madison*
 {: style="margin-top: 0; margin-bottom: 0.5em"}
 
-- [Lones Smith](https://lonessmith.com/){:target="_blank" rel="noopener"} (Advisor), David Blackwell Professor of Economics \[[lones.smith@wisc.edu](mailto:lones.smith@wisc.edu)\]
-- [Benjamin Bernard](http://www.benjamin-bernard.com){:target="_blank" rel="noopener"}, Assistant Professor of Economics \[[bbernard3@wisc.edu](mailto:bbernard3@wisc.edu)\]
-- [Daniel Quint](https://users.ssc.wisc.edu/~dquint/){:target="_blank" rel="noopener"}, Bartlett Family Professor of Economics \[[dquint@ssc.wisc.edu](mailto:dquint@ssc.wisc.edu)\]
+- [Lones Smith](https://lonessmith.com/){:target="_blank" rel="noopener"} (Advisor) \[[lones.smith@wisc.edu](mailto:lones.smith@wisc.edu)\]
+- [Benjamin Bernard](http://www.benjamin-bernard.com){:target="_blank" rel="noopener"} \[[bbernard3@wisc.edu](mailto:bbernard3@wisc.edu)\]
+- [Daniel Quint](https://users.ssc.wisc.edu/~dquint/){:target="_blank" rel="noopener"} \[[dquint@ssc.wisc.edu](mailto:dquint@ssc.wisc.edu)\]
