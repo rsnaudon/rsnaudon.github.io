@@ -1,6 +1,6 @@
 ---
 title: "Why Sell Loot Boxes?"
-coauthors: "T. Fung Ngai"
+coauthors: '<a href="https://sites.google.com/view/fungngai" target="_blank" rel="noopener">T. Fung Ngai</a>'
 collection: research
 category: progress
 permalink: /research/why-sell-loot-boxes
