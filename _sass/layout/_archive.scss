@@ -50,6 +50,8 @@
 
 .archive__item-coauthors {
   font-weight: normal;
+  // inline-block keeps the title's hover underline from extending over "(with …)"
+  display: inline-block;
 }
 
 /* remove border*/
