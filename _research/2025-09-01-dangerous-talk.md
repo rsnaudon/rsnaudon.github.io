@@ -5,7 +5,7 @@ category: working
 permalink: /research/dangerous-talk
 title_link: false
 date: 2025-09-01
-# paperurl: '/files/YanezNaudon_JMP.pdf'   # remove the leading "# " to show the Download Paper link
+paperurl: '/files/YanezNaudon_JMP.pdf'
 excerpt: |-
   **Abstract:** I explore continuous-time partnerships of coworker pairs in an organization. Each has a productivity-irrelevant hidden type, either normative or rogue. As the partnership proceeds, exogenous public signals gradually reveal their types to each other. Meanwhile, the organization both incentivizes calling out rogue types, and punishes false accusations. Opportunities to exit the partnership or make an accusation periodically arrive randomly, and are privately observed --- thus making the partnership’s very survival an endogenous source of information. A symmetric Markov equilibrium exists, and both types are sometimes called out if stakes are high enough.
 
