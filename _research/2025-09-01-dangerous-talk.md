@@ -1,5 +1,5 @@
 ---
-title: "Dangerous Talk (JMP)"
+title: "Dangerous Talk"
 collection: research
 category: working
 permalink: /research/dangerous-talk

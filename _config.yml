@@ -94,7 +94,7 @@ publication_category:
 # Sections of the Research page, in display order
 research_category:
   working:
-    title: 'Working Papers'
+    title: 'Job Market Paper'
   progress:
     title: 'Selected Work in Progress'
   published:
